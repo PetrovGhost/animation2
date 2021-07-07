@@ -1,0 +1,8 @@
+.monci {
+    width: 200px;
+	transition: transform 3s linear;
+}
+.monci:hover {
+	transform: rotateY(180deg);
+    cursor: pointer;
+}
